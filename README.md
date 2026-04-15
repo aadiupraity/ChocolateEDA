@@ -33,7 +33,7 @@ The analysis was performed on five interconnected tables:
 - **K-Means Clustering:** Implement machine learning to group customers into behavioral segments (e.g., Champions vs. At-Risk).
 - **Predictive Modeling:** Build a regression model to forecast next month's sales based on historical trends.
 
-## 📂 Project Structure
+## Project Structure
 ```text
 ├── Chocolate_EDA.ipynb   # Main analysis notebook
 ├── data/                 # Folder containing CSV files (Sales, Products, etc.)
